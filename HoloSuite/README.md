@@ -1,3 +1,9 @@
+# Holographic Training Suite for Roblox Clans
+## This is a kind "training place" used very frequently in Group events by so-called "war clans" on roblox that usually use Roblox LinkedSwords or RayCastLaser guns to fight each other for ego points, when I was younger and played a lot of roblox and was involved in group culture I always was absolutely mystified by these things so I decided to code a simple modular one.
+
+
+
+
 In order to use this holo system make sure that the following items are in the following places:
 
 'holoEvents' folder must be in ReplicatedStorage
