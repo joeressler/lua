@@ -1,0 +1,1 @@
+# This is a global traffic light system that I made because I was tooting around the place "Group Recruiting Plaza" and some guy was making a "Florida Roleplay" group and needed a coder, so I helped out and then the group died and I think he quit roblox so.... here is the traffic lights :)
