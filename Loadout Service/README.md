@@ -1,0 +1,1 @@
+# This is a loadout by group rank script, I made this for a star wars group that my friend was running, pretty simple, not very optimized, has some funny ASCII art.
