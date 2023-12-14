@@ -1,0 +1,1 @@
+# This is a "train station script" that I made in a period when I was really obsessed with trains but hated coding locomotion, so I just made people teleport from station to station, I thought it was really cool but in practice it's just teleporting around invisible blocks with a "cutesy" GUI that understands what station you're at.
