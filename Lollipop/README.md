@@ -1,0 +1,1 @@
+# This was my attempt at a tool, I made a lollipop that if I recall correctly heals you a % of your max hp, but if you got greedy and tried to overheal it would "be poisoned" i.e. set your health to 0 killing you
